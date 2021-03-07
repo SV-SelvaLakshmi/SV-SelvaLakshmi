@@ -6,3 +6,9 @@
 - 🤔 I’m looking for help with pointers in c
 - 💬 Ask me about python
 - 📫 How to reach me: selvalakshmi.sv@gmail.com.
+- 🏆 Achiements:
+1.	Ranked 2nd among all students in the Computer Science Department
+2.	Won 1st prize for project presentation in Intra Department Symposium at Kalasalingam Institute of Technology.
+3.	Won 1st prize for posture presentation in Intra Department Symposium at Kalasalingam Institute of Technology.
+<i class="fa fa-linkedin" aria-hidden="true"></i>
+
