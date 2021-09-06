@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/53254307/132188693-827e7a4b-9ae9-444d-8246-6ebdbc27ece9.png)
 <h1 align="center">Hi 👋, I'm Selva Lakshmi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
